@@ -1,0 +1,63 @@
+{
+  "categories": [
+    {
+      "id": "greetings",
+      "name": "Greetings",
+      "phrases": [
+        { "english": "Hello", "pronunciation": "sawat dee" },
+        { "english": "Good morning", "pronunciation": "sawat dee ton chao" },
+        { "english": "Good evening", "pronunciation": "sawat dee ton yen" }
+      ]
+    },
+    {
+      "id": "gratitude",
+      "name": "Gratitude",
+      "phrases": [
+        { "english": "Thank you", "pronunciation": "kop koon" },
+        { "english": "Thank you very much", "pronunciation": "kop koon mak" },
+        { "english": "Thanks", "pronunciation": "kop jai" }
+      ]
+    },
+    {
+      "id": "farewell",
+      "name": "Farewell",
+      "phrases": [
+        { "english": "Goodbye", "pronunciation": "laa gon" },
+        { "english": "See you again", "pronunciation": "pob gan mai" },
+        { "english": "See you tomorrow", "pronunciation": "pob wan mai" }
+      ]
+    },
+    {
+      "id": "shopping",
+      "name": "Shopping",
+      "phrases": [
+        { "english": "How much is this?", "pronunciation": "tao rai" },
+        { "english": "Can you lower the price?", "pronunciation": "lot noi dai mai" },
+        { "english": "Too expensive", "pronunciation": "paeng" },
+        { "english": "I'll take it", "pronunciation": "ao an nee" }
+      ]
+    },
+    {
+      "id": "directions",
+      "name": "Directions",
+      "phrases": [
+        { "english": "How to go to...?", "pronunciation": "pai yang rai" },
+        { "english": "Is it near?", "pronunciation": "glai mai" },
+        { "english": "Turn left/right", "pronunciation": "liao sai/kwaa" },
+        { "english": "Go straight", "pronunciation": "trong pai" },
+        { "english": "Where is it?", "pronunciation": "yoo tee nai" }
+      ]
+    },
+    {
+      "id": "food",
+      "name": "Food & Drinks",
+      "phrases": [
+        { "english": "Fried rice", "pronunciation": "kao pad" },
+        { "english": "Spicy shrimp soup", "pronunciation": "tom yum kung" },
+        { "english": "Not spicy", "pronunciation": "mai phet" },
+        { "english": "Water", "pronunciation": "nam" },
+        { "english": "Check, please", "pronunciation": "check bin" }
+      ]
+    }
+  ]
+}
