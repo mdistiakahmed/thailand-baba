@@ -22,14 +22,7 @@ export const metadata: Metadata = {
     siteName: 'Thailand Baba',
     locale: 'en_US',
     type: 'website',
-    images: [
-      {
-        url: 'https://www.thailandbaba.com/thai-language-og.jpg', 
-        width: 1200,
-        height: 630,
-        alt: 'Learn Thai Phrases',
-      },
-    ],
+    images: "/logo.png",
   },
 };
 
